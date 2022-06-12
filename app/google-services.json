@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877304942658",
+    "project_id": "makenotes-7685c",
+    "storage_bucket": "makenotes-7685c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877304942658:android:a9c858c33fe0267b191ddb",
+        "android_client_info": {
+          "package_name": "com.vr233249.makenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877304942658-7ic36t2gtk11onhuens9q0bppi4ef52c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXo0RA9Qb9t17jsuaGubUf7Qf7QPV75s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877304942658-7ic36t2gtk11onhuens9q0bppi4ef52c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

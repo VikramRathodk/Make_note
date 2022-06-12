@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteMaker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+
+
+    <string name="_12_05_2022">12/05/2022</string>
+</resources>
